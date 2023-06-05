@@ -23,6 +23,5 @@ public record DadosEnderecoDTO(
 		
 		String complemento, 
 		String numero) {
-
 	
 }
